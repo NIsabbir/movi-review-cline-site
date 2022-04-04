@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movi-review-cline-site/static/css/main.f90462e7.css",
+    "main.js": "/movi-review-cline-site/static/js/main.2e7dc292.js",
+    "index.html": "/movi-review-cline-site/index.html",
+    "main.f90462e7.css.map": "/movi-review-cline-site/static/css/main.f90462e7.css.map",
+    "main.2e7dc292.js.map": "/movi-review-cline-site/static/js/main.2e7dc292.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f90462e7.css",
+    "static/js/main.2e7dc292.js"
+  ]
+}
